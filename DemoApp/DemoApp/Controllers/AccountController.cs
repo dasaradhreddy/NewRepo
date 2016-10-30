@@ -19,9 +19,11 @@ namespace DemoApp.Controllers
         private ApplicationUserManager _userManager;
 
         public AccountController()
-        {//teste
+        {
+           // fsdf//teste
 
         }
+
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
         {
